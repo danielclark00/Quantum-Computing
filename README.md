@@ -6,4 +6,4 @@
 
 ### Resources
 ---
-https://github.com/mtreinish/open-source-quantum-computing
+[Qiskit GitHub Repository](https://github.com/Qiskit)
