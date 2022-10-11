@@ -1,3 +1,9 @@
-# Community Template Repo
+# Quantum Computing
 
-Template repo with docs and GitHub Actions etc, to create other projects.
+### Projects
+---
+
+
+### Resources
+---
+https://github.com/mtreinish/open-source-quantum-computing
